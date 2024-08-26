@@ -1,4 +1,4 @@
-## Common Git Commands
+## Common Git Commands is fun
 
 	Check status of the repo:
 	```
