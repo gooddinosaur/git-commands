@@ -12,4 +12,8 @@
     ```
     git switch branchname
     ```
-    
+3. View differences between your working copy and current "HEAD" in git:
+	```
+	git diff
+	```
+ 
